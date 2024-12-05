@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ANISH KARTHIC" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm ANISH KARTHIC</h1>
 <h3 align="center">I AM A STUDENT WHO PLAYS WITH CODE AND LEARNING IT</h3>
 
