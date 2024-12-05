@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/ANISHKARTHIC/ANISHKARTHIC/blob/main/giphy.webp" alt="Marton Lederer" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm ANISH KARTHIC</h1>
 <h3 align="center">I AM A STUDENT WHO PLAYS WITH CODE AND LEARNING IT</h3>
 
