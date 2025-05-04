@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/ANISHKARTHIC/ANISHKARTHIC/blob/main/giphy.webp" alt="Marton Lederer" />
+  <img src="https://github.com/ANISHKARTHIC/ANISHKARTHIC/blob/main/coding-typing.gif" alt="Marton Lederer" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm ANISH KARTHIC</h1>
