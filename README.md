@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/ANISHKARTHIC/ANISHKARTHIC/blob/main/coding-typing.gif" alt="ANISHKARTHIC" width="300" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
 </h1>
 
 <h1 align="center">Hi 👋, I'm ANISH KARTHIC</h1>
