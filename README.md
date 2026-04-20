@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I am Anish Karthic</h1>
 
 <p align="center">
-  Student Developer | Embedded and Iot Learner | Open-Source Explorer | Full-Stack 
+  Student Developer | Embedded Systems and IoT Learner | Open-Source Explorer | Full-Stack
 </p>
 
 <p align="center">
@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Java+%7C+Python+%7C+Web+Development;Learning+by+building+real+projects;Open+to+collaborating+on+open-source;Always+improving%2C+one+commit+at+a+time" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Embedded+Systems+%7C+IoT+%7C+Web+Development;Java+%7C+Python+%7C+Project+Building;Open+to+collaborating+on+open-source;Always+improving%2C+one+commit+at+a+time" alt="Typing intro" />
 </p>
 
 ## About Me
 
 - I am a student who loves learning through real project building.
 - I enjoy writing code, testing ideas, and improving every day.
-- I am currently learning Java deeply and exploring backend development.
+- I am currently learning Java deeply while exploring embedded systems and IoT projects.
 - I am looking to collaborate on open-source projects.
 - I am looking for help and mentorship in Django.
 - Reach me at: **anishkarthicvs@gmail.com**
@@ -33,6 +33,7 @@
 ## Current Focus
 
 - Strengthening core Java, DSA, and OOP fundamentals.
+- Building practical embedded systems and IoT prototypes with sensors and automation ideas.
 - Building cleaner backend APIs with Python and Django.
 - Improving deployment and CI/CD basics.
 - Shipping more public projects consistently.
@@ -71,10 +72,19 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
+### Embedded and IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+
 ## What I Build
 
 - Web apps with clean UI and practical backend logic.
 - API-based projects and integrations.
+- Embedded systems and IoT builds for real-world use cases.
 - Student-focused tools and experimental builds.
 - Open-source contributions as I learn and grow.
 
