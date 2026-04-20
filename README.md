@@ -30,6 +30,18 @@
 - I am looking for help and mentorship in Django.
 - Reach me at: **anishkarthicvs@gmail.com**
 
+## Achievements
+
+- SIH 2025 Winner.
+- Specially mentioned for contributing to the OpenClaw project (as mentioned in the OpenClaw Playbook README).
+
+## Open-Source Contributions
+
+- Contributor to [pdf-spool-optimizer](https://github.com/Mathi27/pdf-spool-optimizer).
+- Contributor to [bits2bytes](https://github.com/Mathi27/bits2bytes).
+- Contributor to [Nova - AI Desktop Assistant](https://github.com/Adarsh2089/Nova---AI-Desktop-Assistant).
+- Special mention contributor in [openclaw-playbook](https://github.com/Mathi27/openclaw-playbook).
+
 ## Current Focus
 
 - Strengthening core Java, DSA, and OOP fundamentals.
@@ -87,6 +99,26 @@
 - Embedded systems and IoT builds for real-world use cases.
 - Student-focused tools and experimental builds.
 - Open-source contributions as I learn and grow.
+
+## Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/ANISHKARTHIC/C-WRAN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=C-WRAN&theme=tokyonight&hide_border=true" alt="C-WRAN" />
+  </a>
+  <a href="https://github.com/ANISHKARTHIC/SMART-ATTENDENCE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=SMART-ATTENDENCE&theme=tokyonight&hide_border=true" alt="SMART-ATTENDENCE" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ANISHKARTHIC/FLIGHT_DATA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=FLIGHT_DATA&theme=tokyonight&hide_border=true" alt="FLIGHT_DATA" />
+  </a>
+  <a href="https://github.com/ANISHKARTHIC/Open-claw">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=Open-claw&theme=tokyonight&hide_border=true" alt="Open-claw" />
+  </a>
+</p>
 
 ## GitHub Stats
 
