@@ -92,6 +92,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANISHKARTHIC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub stats" />
+</p> 
+<p>
   <img src="https://streak-stats.demolab.com?user=ANISHKARTHIC&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
