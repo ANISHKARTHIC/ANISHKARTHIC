@@ -103,17 +103,17 @@
 ## Highlighted Repositories
 
 <p align="center">
-  <a href="https://github.com/ANISHKARTHIC/C-WRAN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=C-WRAN&theme=tokyonight&hide_border=true" alt="C-WRAN" />
+  <a href="https://github.com/ANISHKARTHIC/ENDLESS-DREAMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=ENDLESS-DREAMS&theme=tokyonight&hide_border=true" alt="ENDLESS-DREAMS" />
   </a>
-  <a href="https://github.com/ANISHKARTHIC/SMART-ATTENDENCE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=SMART-ATTENDENCE&theme=tokyonight&hide_border=true" alt="SMART-ATTENDENCE" />
+  <a href="https://github.com/ANISHKARTHIC/Jarvis-Desktop-Voice-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=Jarvis-Desktop-Voice-Assistant&theme=tokyonight&hide_border=true" alt="Jarvis-Desktop-Voice-Assistant" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ANISHKARTHIC/FLIGHT_DATA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=FLIGHT_DATA&theme=tokyonight&hide_border=true" alt="FLIGHT_DATA" />
+  <a href="https://github.com/ANISHKARTHIC/LMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=LMS&theme=tokyonight&hide_border=true" alt="LMS" />
   </a>
   <a href="https://github.com/ANISHKARTHIC/Open-claw">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANISHKARTHIC&repo=Open-claw&theme=tokyonight&hide_border=true" alt="Open-claw" />
