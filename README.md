@@ -33,7 +33,6 @@
 ## Achievements
 
 - SIH 2025 Winner.
-- Specially mentioned for contributing to the OpenClaw project (as mentioned in the OpenClaw Playbook README).
 
 ## Open-Source Contributions
 
@@ -41,6 +40,7 @@
 - Contributor to [bits2bytes](https://github.com/Mathi27/bits2bytes).
 - Contributor to [Nova - AI Desktop Assistant](https://github.com/Adarsh2089/Nova---AI-Desktop-Assistant).
 - Special mention contributor in [openclaw-playbook](https://github.com/Mathi27/openclaw-playbook).
+- Contributor to [Metadata-viewer](https://github.com/ARUNAWRISHE/Metadata-viewer).
 
 ## Current Focus
 
