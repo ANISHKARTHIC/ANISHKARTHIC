@@ -34,16 +34,7 @@
 
 ---
 
-## 🌟 Featured Work: Generative AI Engineering Curriculum
 
-Beyond writing code, I designed and built a complete **Generative AI Engineering curriculum** for my college AI club — a full learning path, not just a slide deck.
-
-- **21 modules across 6 levels**, structured from Foundations through Advanced & Enterprise Systems
-- **Capstone tracks and certification paths** so learners have a clear finish line, not just content to skim
-- **A tool-reference appendix** built from a categorized spreadsheet of GenAI tools, kept practical and current
-- **Custom PDF publishing pipeline** — WeasyPrint + Python scripting + a CSS design system — to turn the whole handbook into a polished, print-ready document
-
-*It's the project I'm proudest of because it combines the two things I care about most: understanding systems deeply, and making that understanding usable for other people.*
 
 <!-- Add the repo link here once it's public, e.g.:
 <a href="https://github.com/ANISHKARTHIC/genai-engineering-curriculum">
